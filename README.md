@@ -31,3 +31,6 @@ Contribuições são bem-vindas! Abra issues ou pull requests para melhorias.
 ## Licença
 
 Projeto open source sob a licença MIT.
+
+usuario: admin
+senha: 1234
